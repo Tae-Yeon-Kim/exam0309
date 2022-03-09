@@ -29,7 +29,7 @@ int main(){
 	}
 	
 	printf("%d",big*small);
-	
+	print("\n");
 	
 
 }
